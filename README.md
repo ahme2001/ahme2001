@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋 , I'm Ahmed Abdallah
 
 # 💫 About Me:
 🔭 I’m currently studing CS Engineering at the [Alexandria University](https://www.alexu.edu.eg/)<br>🌱 I’m currently learning JS<br>🤝 I’m interested in Software Engineering and I care a lot about the quality of code<br>📫 How to reach me [ahmedaboeleid30@gmail.com](ahmedaboeleid30@gmail.com)<br>
