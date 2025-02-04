@@ -1,7 +1,7 @@
 ### Hi👋 , I'm Ahmed Abdallah
 
 # 💫 About Me:
-🔭 I’m software engineer at ZAD technology<br>🤝 I’m interested in Software Engineering and I care a lot about the quality of code<br>📫 How to reach me [ahmedaboeleid@hotmail.com](ahmedaboeleid@hotmail.com)<br>
+🔭 I’m software engineer at ZAD technology<br>🤝 I’m interested in Software Engineering and I care a lot about the quality of code<br>📫 How to reach me [ahmedaboeleid30@gmail.com](ahmedaboeleid30@gmail.com)<br>
 
 
 ## 🌐 Socials:
